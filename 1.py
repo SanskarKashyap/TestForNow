@@ -2,10 +2,10 @@
 
 
 i = 1
+j =10
 while True:
     print(i)
     i += 1
-    if i > 10:
+    if j > 10:
         break
 
-    
